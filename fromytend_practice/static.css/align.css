@@ -1,0 +1,26 @@
+.one{
+    color: bisque;
+    background-color: blueviolet;
+    display: inline;
+}
+#keys .car{
+    float: left;
+    width: 30%;
+    text-align: center;
+}
+
+.nose{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.head{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.text{
+    font-size: 20px;
+    padding-left: 20px;
+}

@@ -1,0 +1,25 @@
+.one{
+    border: 2px solid;
+    margin: 20px;
+    padding: 20px;
+}
+.two{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+    padding: auto;
+
+    opacity: 50%;
+}
+
+div{
+    background-color: blue;
+    color: aliceblue;
+}
+
+span{
+    color: coral;
+}

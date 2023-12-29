@@ -1,0 +1,54 @@
+body, html{
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.kin{
+    background-image: url("../image/model.jpg");
+    min-height: 360px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+
+.container{
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px; 
+}
+
+input[type=email], [type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+
+.btn{
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+div{
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+h2{
+    text-align: center;
+    background-color: yellow;
+}

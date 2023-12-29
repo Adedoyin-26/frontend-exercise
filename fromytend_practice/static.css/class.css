@@ -1,0 +1,22 @@
+body{
+    background-image: url("../image/lfclogo.jpg");
+    /* background-repeat: no-repeat; */
+}
+.c{
+    background-color: aquamarine;
+    border: solid 5px;
+    border-radius: 30px;
+}
+.d{
+    background-color: blue;
+    border: solid 5px;
+}
+.e{
+    background-color: blueviolet;
+    border-bottom: dotted;
+}
+
+#de{
+background-color: chocolate;
+border-left: dotted;
+}
